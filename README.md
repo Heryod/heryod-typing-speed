@@ -15,3 +15,4 @@
 
 - [ ] Create key-binds
 - [ ] Create record of history for User
+- [ ] Create nice sound when write sign 
