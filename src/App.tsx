@@ -1,11 +1,12 @@
-import { Typing } from "./components/Typing";
+// import { Typing } from "./components/Typing";
+import { Nav } from "./components/Nav";
 
 import "./App.css";
 
 function App() {
   return (
     <>
-      <Typing />
+      <Nav />
     </>
   );
 }
